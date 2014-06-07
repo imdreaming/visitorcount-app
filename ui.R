@@ -4,7 +4,7 @@ library(shiny)
 # ui.R
 
 shinyUI(fluidPage(
-  titlePanel("Predicted hourly visitor counts based upon weather, date, and time"),
+  titlePanel("IS IT POSSIBLE FOR ANYONE TO EDIT??? Predicted hourly visitor counts based upon weather, date, and time"),
   
   fluidRow(
     column(4,
